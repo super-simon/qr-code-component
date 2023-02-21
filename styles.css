@@ -17,6 +17,7 @@ body {
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
+  box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
 }
 
 .card__qr-container {
@@ -90,7 +91,8 @@ body {
   .card__qr-container {
     background-color: #3685ff;
   }
-  .card__qr-top-oval, .card__qr-bottom-oval {
+  .card__qr-top-oval,
+  .card__qr-bottom-oval {
     background-color: #2c7dfa;
   }
-}/*# sourceMappingURL=styles.css.map */
+} /*# sourceMappingURL=styles.css.map */
