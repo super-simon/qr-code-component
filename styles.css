@@ -3,7 +3,7 @@ body {
   justify-content: center;
   align-items: center;
   background-color: #d5e1ef;
-  height: 100vh;
+  min-height: 100vh;
   margin: 0;
   font-family: "Outfit";
 }
